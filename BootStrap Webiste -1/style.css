@@ -1,0 +1,8 @@
+.header {
+    background: rgb(238, 48, 55);
+    background: linear-gradient(90deg, rgba(238, 48, 55, 1) 0%, rgba(220, 66, 79, 1) 33%, rgba(214, 67, 86, 1) 58%, rgba(76, 86, 230, 1) 100%);
+}
+
+/* .col>img {
+    height: 30px;
+} */
