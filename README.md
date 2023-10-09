@@ -1,6 +1,6 @@
 # BootStrap-website
 
-##DoggyTalk
+# DoggyTalk
 Website-1
 
 ![image](https://github.com/prapti3/BootStrap-website/assets/71283167/c6b62500-54bb-46a4-ac42-5e5d59d2274c)
@@ -9,7 +9,7 @@ Website-1
 ![image](https://github.com/prapti3/BootStrap-website/assets/71283167/cec79c77-5896-4e36-85d5-85a761bef1a4)
 
 
-##MoveIT
+# MoveIT
 Website-2
 
 ![image](https://github.com/prapti3/BootStrap-website/assets/71283167/61606e0e-3880-4504-b684-b4087e069560)
